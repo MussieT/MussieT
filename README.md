@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MussieT
 - 👀 I’m interested in Vue.js, GraphQL, Typescript, General programming principles and System design.
-- 🌱 I’m currently learning Vitest, Jest
+- 🌱 I’m currently learning Vitest, Jest, React
 - 📫 How to reach me ... Mussieteshomeg@gmail.com
 - 📝 My articles on .. https://medium.com/@MussieTeshome
 <!---
