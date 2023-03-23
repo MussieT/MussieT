@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MussieT
 - 👀 I’m interested in Frontend Development, Databases, Typescript, General programming principles and System design.
-- 🌱 I’m currently learning Jest, React
+- 🌱 I’m currently learning about CI CD
 - 📫 How to reach me ... Mussieteshomeg@gmail.com
 - 📝 My articles on .. https://medium.com/@MussieTeshome
 <!---
