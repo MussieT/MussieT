@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MussieT
 - 👀 I’m interested in Frontend Development, Databases, Typescript, General programming principles and System design.
-- 🌱 I’m currently learning about Reids .. stuff
+- 🌱 I’m currently learning about Reids and caching
 - 📫 How to reach me ... Mussieteshomeg@gmail.com
 - 📝 My articles on .. https://medium.com/@MussieTeshome
 <!---
