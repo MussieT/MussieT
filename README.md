@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MussieT
 - 👀 I’m interested in Scaling, Databases, General programming principles, and System design.
-- 🌱 I’m currently learning about Redis.
+- 🌱 I’m currently learning about Golang and scalability stuff.
 - 📫 How to reach me ... Mussieteshomeg@gmail.com
 - 📝 My articles on .. https://medium.com/@MussieTeshome
 <!---
